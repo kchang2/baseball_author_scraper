@@ -15,6 +15,8 @@
 + Every HTML site has a different way of formatting, and because their focus isn't entirely on site efficiency, this made scraping really difficult. I spent the majority of the time learning how to successfully extract information. Thus, there may be some duplicate data as I had checked a wide arrange of classes and tags.
 + After scraping the data successfully, there was trouble with extracting the author by automation due to quotations within the string. So, for a number of these sets, I manually went down the list and wrote the authors into a text file. Note that it did not take a long time because I could easily count how many of each instances showed up (same site has same HTML format) in the list of author+html code, so writing the text file was a matter of copy and paste.
 
+Will include nice visualizations later down the road. It is just that categorizing only gives 1D plots or histograms at best, so this visualization is not as important. If needing visuals, would make a swarmplot with legends of authors and the horizontal axis being of which sites.
+
 ## Backstory
 I was recently asked the following question:
 > What one or two baseball writers do you read routinely? 
